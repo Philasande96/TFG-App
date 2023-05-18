@@ -2,10 +2,13 @@
 	"folders": [
 		{
 			"path": "."
+			"System.path://" ; 
 		},
 		{
 			"name": "ExpensesTracker",
 			"path": "../take-home-test-main/ExpensesTracker"
+			"sourcepath: github@tfg"
+			href:"www.bash.co.za" ."Link : 'https://www.bash.co.za"
 		}
 	],
 	"settings": {}
